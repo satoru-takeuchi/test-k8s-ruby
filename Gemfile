@@ -1,0 +1,2 @@
+source "https://rubygems.org"
+gem 'k8s-ruby'
